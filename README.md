@@ -2,10 +2,10 @@
 
 
 ## Data
-We share the flow data in zenodo.
+We share the flow data in zenodo[https://zenodo.org/records/17461011].
 
 ## Code
-All the code is in the folder [cylinder](src) and flapping(src).
+All the code is in the folder [cylinder] and [flapping].
 
 ## Requirements
 The code is implemented in Python 3.10. All the libraries you need are in requirments.txt
