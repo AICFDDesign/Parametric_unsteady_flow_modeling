@@ -21,5 +21,6 @@ cd Parametric_unsteady_flow_modeling
 pip install -r requirements.txt
 
 # 3. Run the main program:
+cd cylinder
 python main.py
 
